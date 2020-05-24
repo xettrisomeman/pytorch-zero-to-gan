@@ -1,2 +1,2 @@
 # pytorch-zero-to-gan
-Learning pytorch freecodecamp , 
+Learning pytorch freecodecamp , in collaboratin with jovian.ml
